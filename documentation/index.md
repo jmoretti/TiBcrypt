@@ -1,5 +1,3 @@
-TiBcrypt
-========
 # bcrypt Module
 
 ## Description
@@ -51,4 +49,3 @@ https://github.com/jmoretti
 
 ## License
 Apache License, Version 2.0
-
