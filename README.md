@@ -25,6 +25,7 @@ bcrypt.hashPassword(password, salt) which returns a bcrypt hash of the string ty
 ## Usage
 
 Some examples:
+
 	generateSalt = function(rounds){
 		var rounds = rounds || 10;
 		var bcrypt = require('com.emunworks.bcrypt');
